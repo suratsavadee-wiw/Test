@@ -12,9 +12,7 @@ This project focuses on leveraging AI models for sales voice processing, product
 
 ## **Speech Recognition Model**
 
-Model Used :
-
-biodatlab/whisper-th-large-v2 
+Model Used : biodatlab/whisper-th-large-v2 
 
 Process :
 
