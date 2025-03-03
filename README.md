@@ -24,13 +24,13 @@ Process :
 
 3. Evaluate performance using Word Error Rate (WER) & Character Error Rate (CER).
 
-## Future Improvements:
+Future Improvements:
 
 - Fine-tuning with domain-specific Thai sales data.
 
 - Noise reduction and speaker diarization.
 
-## ** Product Feature Extraction **
+## **Product Feature Extraction**
 
 Process :
 
@@ -46,7 +46,7 @@ Evaluation :
 
 - Compare extracted product features with expected output.
 
-## ** Sales Coaching AI **
+## **Sales Coaching AI**
 Process :
 
 1. Utilize LLM (GPT-4o) with RAG-based retrieval.
@@ -62,7 +62,7 @@ Evaluation & Recommendations :
 - Enhance adaptability to different sales scenarios.
 
 
-## ** service workflow : **
+## **service workflow :**
 
 <img width="584" alt="Screenshot 2568-03-03 at 16 39 09" src="https://github.com/user-attachments/assets/29b183b9-f7b8-4062-a573-465a68269e95" />
 
