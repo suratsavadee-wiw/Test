@@ -12,11 +12,11 @@ This project focuses on leveraging AI models for sales voice processing, product
 
 ## **Speech Recognition Model**
 
-Model Used:
+Model Used :
 
-biodatlab/whisper-th-large-v2 (Large model for better accuracy)
+biodatlab/whisper-th-large-v2 
 
-Process:
+Process :
 
 1. Convert audio to text using Whisper.
 
@@ -32,7 +32,7 @@ Process:
 
 ## ** Product Feature Extraction **
 
-Process:
+Process :
 
 1. Transcribe and clean sales call text.
 
@@ -40,26 +40,32 @@ Process:
 
 3. Store and retrieve context using vector embeddings.
 
-Evaluation:
+Evaluation :
 
 - Check for key product-related words (e.g., เงินคืน, รับประกัน).
 
 - Compare extracted product features with expected output.
 
 ## ** Sales Coaching AI **
-Process:
+Process :
 
 1. Utilize LLM (GPT-4o) with RAG-based retrieval.
 
 2. Provide real-time feedback on sales conversations.
 
-Evaluation & Recommendations:
+Evaluation & Recommendations :
 
 - Measure accuracy in understanding customer objections.
 
 - Evaluate effectiveness in generating persuasive responses.
 
 - Enhance adaptability to different sales scenarios.
+
+
+## ** service workflow : **
+
+<img width="584" alt="Screenshot 2568-03-03 at 16 39 09" src="https://github.com/user-attachments/assets/29b183b9-f7b8-4062-a573-465a68269e95" />
+
 
 
 
